@@ -1,4 +1,6 @@
 # EXP05-Setting-Up-Spring-Security-in-a-Spring-Boot-Project
+# NAME: RAJA RITHIKA
+# REG NO:2305001029
 ## AIM:
 To write a program for setting up Spring Security in a Spring Boot project to secure endpoints with basic authentication and role-based access control.
 
@@ -74,3 +76,11 @@ public class HelloController {
         return "This is a secured endpoint. You are authenticated!";
     }
 }
+## Output:
+<img width="1021" height="660" alt="image" src="https://github.com/user-attachments/assets/a097dff3-1bea-45ba-aaef-20cdc055246c" />
+<img width="1003" height="663" alt="image" src="https://github.com/user-attachments/assets/8e5b7a64-c26e-4f90-8d56-cafc3b51df08" />
+
+## Result:
+Thus,the program for setting up Spring Security in a Spring Boot project to secure endpoints with basic authentication and role-based access control implemented and executed successfully.
+
+
